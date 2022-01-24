@@ -15,7 +15,7 @@ sr.reveal('.col-lg-4', {
     distance: '50px',
     reset: true,
 
-    duration: 2250
+    duration: 2500
 });    
 
 
