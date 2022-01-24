@@ -52,7 +52,6 @@ sr.reveal('.btn-secondary', {
 sr.reveal('.navbar-brand', {
     origin: 'left',
     distance: '30px',
-    reset: true,
 
     duration: 2750
 });

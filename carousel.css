@@ -83,7 +83,8 @@ h2{
 
 .btn.btn-secondary{
   background-color: #02ffbb;
-  border-radius: 30px;
+  border: none;
+  border-radius: 40px;
   color: black;
 
 }
