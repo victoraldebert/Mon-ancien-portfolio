@@ -119,7 +119,19 @@ h2{
   }
 }
 
+#tech{
+  height: 400px;
+  width: 550px;
+}
 
+@media screen and (max-width: 900px) {
+  #tech{
+    height: auto;
+    width: 100%;
+  }
+}
 
 /*test*/
+
+
 
