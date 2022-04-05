@@ -6,7 +6,8 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #ffffff;
-  background-color: #212529;
+  /* background-color: #212529; couleur du background original*/ 
+  background-color: #0d0e0f;
 }
 
 
@@ -64,7 +65,8 @@ body {
 
 .featurette-dividerdeux {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-  color: #212529;
+  /*color: #212529;*/
+  color: #0d0e0f;
   
 }
 
