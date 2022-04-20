@@ -91,6 +91,13 @@ h2{
   color: black;
 
 }
+  .btn-secondary-two{
+  background-color: #02ffbb;
+  border: none;
+  border-radius: 40px;
+  color: black;
+  margin-left: 20rem;
+}
 
 .float-end {
   background-color: #02ffbb;
