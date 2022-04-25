@@ -82,6 +82,7 @@ body {
 
 h2{
   color: #02ffbb;
+  margin-bottom: 1rem;
 }
 
 .btn.btn-secondary{
@@ -96,7 +97,7 @@ h2{
   border: none;
   border-radius: 40px;
   color: black;
-  margin-left: 20rem;
+  margin-left: 17rem;
 }
 
 .float-end {
