@@ -140,7 +140,9 @@ h2{
     width: 100%;
   }
 }
-
+.lead {
+  padding-bottom: 1.5rem;
+}
 /*test*/
 
 
