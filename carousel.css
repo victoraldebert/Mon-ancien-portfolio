@@ -87,19 +87,30 @@ h2{
 
 .btn.btn-secondary{
   background-color: #02ffbb;
-  border: none;
   border-radius: 40px;
   color: black;
+  border: 1px solid #02ffbb;
+  transition: 0.7s;
 
 }
+.btn.btn-secondary:hover {
+  background-color: rgb(0, 0, 0);
+  border: 1px solid #02ffbb;
+  color: #02ffbb;
+}
+
   .btn-secondary-two{
   background-color: #02ffbb;
-  border: none;
+  border: 1px solid #02ffbb;
   border-radius: 40px;
   color: black;
   margin-left: 17rem;
 }
-
+.btn-secondary-two:hover {
+  background-color: rgb(0, 0, 0);
+  border: 1px solid #02ffbb;
+  color: #02ffbb;
+}
 .float-end {
   background-color: #02ffbb;
   border-radius: 30px;
